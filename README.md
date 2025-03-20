@@ -85,3 +85,4 @@ Tracert wsu.ac.kr
 3way
 ## 중요 7계층과 계층주소찾아가는거
 ![스크린샷 2025-03-20 114526](https://github.com/user-attachments/assets/73435ace-817b-434e-9557-160f4b90a971)
+[Uploading 03장_네트워크 보안.pptx…]()
