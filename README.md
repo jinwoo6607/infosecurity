@@ -21,6 +21,14 @@
 MAC주소(랜카드주소)
 ![스크린샷 2025-03-20 103304](https://github.com/user-attachments/assets/8553d7b3-5420-4289-a838-019181f939c7)
 
+![스크린샷 2025-03-20 104512](https://github.com/user-attachments/assets/36f6dd5e-8d13-4e99-b864-eb009f6ddf8b)
+![스크린샷 2025-03-20 104611](https://github.com/user-attachments/assets/093ab03b-4f4f-4819-8f21-ddea25fefa7b)
+![스크린샷 2025-03-20 104657](https://github.com/user-attachments/assets/8046b6c7-b2e6-4fa1-b82d-44031db4f0bd)
+![스크린샷 2025-03-20 104743](https://github.com/user-attachments/assets/bb2537af-4e91-4338-bea8-ea1c5586301a)
 
 2계층 맥주소(물리적주소(랜선))와 ip주소
 1계층-물리적연결->랜선 UTP/FTP/STP
+
+## ..
+![스크린샷 2025-03-20 105128](https://github.com/user-attachments/assets/ab81f17a-cee1-4ecb-a020-6837e7c01ad1)
+![스크린샷 2025-03-20 105221](https://github.com/user-attachments/assets/1a602f09-7317-4c28-9099-e1156d43c9ff)
