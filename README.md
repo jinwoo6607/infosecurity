@@ -1,4 +1,7 @@
 # infosecurity
+[01장_정보 보안의 세계.pptx](https://github.com/user-attachments/files/19356780/01._.pptx)
+[02장_시스템 보안.pptx](https://github.com/user-attachments/files/19356784/02._.pptx)
+
 
 ![스크린샷 2025-03-20 101415](https://github.com/user-attachments/assets/9c9be6fa-0a85-4ca3-a70f-0785600d6f8e)
 ![스크린샷 2025-03-20 101659](https://github.com/user-attachments/assets/ebb39783-57a4-40e3-a79e-c2b63407db7d)
@@ -11,3 +14,7 @@
 
 
 ![스크린샷 2025-03-20 102007](https://github.com/user-attachments/assets/a7d61c60-d738-49ac-bec3-7cd9739b8b4f)
+
+
+## 3장 시험많다
+[03장_네트워크 보안.pptx](https://github.com/user-attachments/files/19356777/03._.pptx)
