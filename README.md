@@ -29,6 +29,7 @@ Wi-Fi: 무선 네트워크에서도 데이터 링크 계층은 MAC 주소를 사
 3계층-network layer(ROUTER)
 ![스크린샷 2025-03-26 114858](https://github.com/user-attachments/assets/5a458573-a33f-4201-a240-d3a4014105e2)
 
+![Uploading 스크린샷 2025-03-26 115109.png…]()
 
 
 
