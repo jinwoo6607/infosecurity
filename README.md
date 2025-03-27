@@ -1,4 +1,5 @@
 [security info.zip](https://github.com/user-attachments/files/19477602/security.info.zip)
+파란부분
 # infosecurity
 
 1계층-물리계층(랜선) (HUB)=USBHUB
@@ -127,3 +128,5 @@ Tracert wsu.ac.kr
 [Uploading 03장_네트워크 보안.pptx…]()
 
 ## 1~4장
+![스크린샷 2025-03-27 102016](https://github.com/user-attachments/assets/376c1a70-d8f1-4859-a3dc-bcae1bafcb21)
+![스크린샷 2025-03-27 102059](https://github.com/user-attachments/assets/0427e974-8584-416b-97fe-93dc0c41302f)
