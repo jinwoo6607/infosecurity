@@ -144,3 +144,4 @@ Tracert wsu.ac.kr
 ![스크린샷 2025-03-27 110447](https://github.com/user-attachments/assets/9f0e6065-6138-4e54-9264-3f049a07c1a4)
 ![스크린샷 2025-03-27 110503](https://github.com/user-attachments/assets/9688ba00-4647-4112-a268-a44962133927)
 ![스크린샷 2025-03-27 110510](https://github.com/user-attachments/assets/bf6e53e5-35ea-43ac-8ef2-28c7da44dfcc)
+![스크린샷 2025-03-27 110759](https://github.com/user-attachments/assets/ca7c3c3a-359d-4e35-9d7f-c3acf87eb942)
