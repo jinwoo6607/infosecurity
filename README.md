@@ -1,4 +1,6 @@
+[security info.zip](https://github.com/user-attachments/files/19477602/security.info.zip)
 # infosecurity
+
 1계층-물리계층(랜선) (HUB)=USBHUB
 유선 네트워크: 이더넷 케이블(예: CAT5, CAT6), 광섬유 케이블 등이 포함됩니다.
 무선 네트워크: Wi-Fi, 블루투스와 같은 무선 통신 기술이 포함됩니다.
@@ -123,3 +125,5 @@ Tracert wsu.ac.kr
 ## 중요 7계층과 계층주소찾아가는거
 ![스크린샷 2025-03-20 114526](https://github.com/user-attachments/assets/73435ace-817b-434e-9557-160f4b90a971)
 [Uploading 03장_네트워크 보안.pptx…]()
+
+## 1~4장
