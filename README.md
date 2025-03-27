@@ -1,6 +1,7 @@
 [security info.zip](https://github.com/user-attachments/files/19477602/security.info.zip)
 파란부분
 # infosecurity
+10정보보안연습
 
 1계층-물리계층(랜선) (HUB)=USBHUB
 유선 네트워크: 이더넷 케이블(예: CAT5, CAT6), 광섬유 케이블 등이 포함됩니다.
