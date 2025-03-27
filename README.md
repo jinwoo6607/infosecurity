@@ -2,6 +2,10 @@
 파란부분
 # infosecurity
 10정보보안에대한연습
+직접쓰지말고복붙하고 그럼 명령어만알면된다
+많이오히려잡히는게없다
+작게하려고하면
+cmd 정보보안 
 
 1계층-물리계층(랜선) (HUB)=USBHUB
 유선 네트워크: 이더넷 케이블(예: CAT5, CAT6), 광섬유 케이블 등이 포함됩니다.
@@ -135,3 +139,8 @@ Tracert wsu.ac.kr
 ![스크린샷 2025-03-27 104016](https://github.com/user-attachments/assets/1c2e49d6-d1b6-4ba5-aef4-c4d12bf45a1b)
 ![스크린샷 2025-03-27 104523](https://github.com/user-attachments/assets/c5bc8086-9b99-468f-a6ce-58837cdbe6c3)
 ![스크린샷 2025-03-27 104531](https://github.com/user-attachments/assets/b410df43-41b4-486c-8b56-64e36a849a22)
+![스크린샷 2025-03-27 105345](https://github.com/user-attachments/assets/fd053c33-8d6c-4a28-af3c-7fe1cecb0c33)
+![스크린샷 2025-03-27 110439](https://github.com/user-attachments/assets/dff78f44-31cf-4563-bfde-c25f541899e9)
+![스크린샷 2025-03-27 110447](https://github.com/user-attachments/assets/9f0e6065-6138-4e54-9264-3f049a07c1a4)
+![스크린샷 2025-03-27 110503](https://github.com/user-attachments/assets/9688ba00-4647-4112-a268-a44962133927)
+![스크린샷 2025-03-27 110510](https://github.com/user-attachments/assets/bf6e53e5-35ea-43ac-8ef2-28c7da44dfcc)
